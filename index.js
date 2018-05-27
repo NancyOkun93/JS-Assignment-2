@@ -3,7 +3,7 @@ drawName('Nancy Okun');
 
 // The code below will allow you to interact with the letters
 bounceBubbles();
-var message = 'Nancy!';
+var message = 'Nancy Okun!';
 //drawName(message, purple);
 
 // Letters in the message will cycle through these colors:
